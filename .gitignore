@@ -1,3 +1,4 @@
+.idea/
 /log
 /temp
 /bin/ext-accelerator/
@@ -23,4 +24,4 @@
 /bin/platform/ext/
 /bin/platform/extgen/
 /bin/platform/resources/
-bin/platform/apache-ant-1.9.1/
+/bin/platform/apache-ant-1.9.1/
