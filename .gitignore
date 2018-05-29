@@ -20,3 +20,7 @@
 /bin/ext-template/
 /bin/ext-smartedit
 /bin/ext-webservices
+/bin/platform/ext/
+/bin/platform/extgen/
+/bin/platform/resources/
+bin/platform/apache-ant-1.9.1/
